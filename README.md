@@ -1,2 +1,12 @@
 # Nesne-Tabanli-Programlama
 Python ve PyQt5 ile geliştirilmiş, kullanıcı ve yönetim özellikleri sunan kapsamlı bir otomasyon.
+1. carshare: Araç kiralama sisteminin grafiksel kullanıcı arayüzünü (GUI) ve arka plan veritabanı işlemlerini yöneten ana Python kaynak kod dosyası. Bu kod dosyası; segmentlere göre araç filtreleme, yeni müşteri kaydı oluşturma, kiralama süresi hesaplama, faturalandırma ve teslimat tarihlerini takip etme gibi temel fonksiyonları barındırır.
+2. doktorrandevu: Hasta kayıtları, doktor çalışma takvimleri, poliklinik bilgileri ve aktif/geçmiş randevuların güvenli bir şekilde saklandığı SQLite veritabanı dosyası. Sistemdeki randevu saatlerinin çakışmasını önlemek için uygunluk durumlarını dinamik olarak yönetir.
+3. dijitalkütüphane: Kütüphane sisteminin grafiksel kullanıcı arayüzünü (GUI) oluşturan ve veritabanı işlemlerini arka planda yürüten ana Python kaynak kod dosyası. Python ve PyQt5 kullanılarak geliştirilen bu dosya; kitap arama, yeni üye ekleme, kitap ödünç verme, iade alma ve geciken kitapları listeleme gibi temel yönetim işlevlerini sağlar.
+4. etkinlikapp: Sistemdeki sinema seansları, konser programları, kayıtlı katılımcılar ve satılan biletlerin güvenli bir şekilde saklandığı Python ve PyQt5 veritabanı dosyası. Etkinlik kapasitelerini, koltuk doluluk oranlarını ve bilet satış kayıtlarını dinamik olarak takip etmek için kullanılır.
+5. onlinekurs: eni öğrencilerin sisteme kaydedilmesi, eğitmenlerin ders programlarının organize edilmesi ve kurs kontenjanlarının anlık olarak izlenmesini sağlayan modern kullanıcı arayüzü kodudur.
+6. yemek:Mutfağın günlük menülerini, güncel yemek tariflerinin içeriklerini, müşteri yorum/puanlarını ve anlık mutfak sipariş kuyruğunu yöneten ilişkisel veritabanı dosyasıdır.
+7. fitness: Salona gelen üyelerin üyelik sürelerini, boy-kilo gibi gelişim grafiklerini ve kendilerine özel hazırlanan antrenman programlarını hafızasında tutan bilgi bankasıdır.
+8. depostok: Şirketin ambarındaki ürünlerin barkod numaralarını, güncel adetlerini ve raflara giren-çıkan malların tüm hareketlerini kaydeden veri tablosudur.
+9. seyahat: Yolculuk yapacak kişilerin nereden nereye gideceğini seçip uygun seferleri saniyeler içinde listelediği ve kendi koltuğunu seçerek bilet ayırtabildiği biletleme arayüzüdür.
+10. crm: Satış ekibinin her sabah açıp müşteri listenisini yönettiği, yeni potansiyel müşteriler ekleyip onlarla yapılan görüşmelerin durumunu güncellediği şirket içi takip programıdır.
